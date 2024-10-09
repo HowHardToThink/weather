@@ -1,0 +1,10 @@
+name: weather_app 
+description: A new Flutter weather application.  
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
